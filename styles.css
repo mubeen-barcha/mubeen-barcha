@@ -3,7 +3,7 @@
   }
   
   body {
-    background: linear-gradient(to right, hsl(200, 100%, 50%), hsl(175, 100%, 50%));
+    background: linear-gradient(to right, hsl(78, 100%, 50%), hsl(175, 100%, 50%));
     display: flex;
     justify-content: center;
     align-items: center;
@@ -83,7 +83,7 @@
   .clock .hand.hour {
     width: 10px;
     height: 35%;
-    background-color: black;
+    background-color: rgb(240, 35, 35);
   }
   
   
